@@ -1,5 +1,16 @@
 # computerVision
+ this is a class work repo containing practical implimentation of opencv-library
 
-# *Disclaimer*
-### i have no Idea of what am doing but i will soon
-## if you are reading this just know that am learning and am not perfect so don't expect me to be.
+### To start
+  install the opencv library using the below command
+
+```python
+  pip install opencv-python
+```
+
+check if you have the matplotlib,deepface and numpy libraries using the command
+  ```python
+    pip list
+```
+
+a list of libraries will be displayed
