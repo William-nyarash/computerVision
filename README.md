@@ -1,4 +1,4 @@
-# computerVision
+.# computerVision
  this is a class work repo containing practical implimentation of opencv-library
 
 ### To start
